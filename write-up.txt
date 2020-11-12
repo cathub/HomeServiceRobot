@@ -1,0 +1,10 @@
+Package used:
+
+1. turtlebot_gazebo package(path: src/turtlebot_simulator):
+	 With the turtlebot_world.launch, we can deploy a turtlebot in a gazebo environment by linking the world file to it.
+     With the amcl_demo.launch, we can serve the map and perform the localization. 
+2. turtlebot_rviz_launchers:
+     With the view_navigation_with_marker.launch file, we can load a preconfigured rviz workspace. This is a modified version of view_navigation.launch, which loads the rviz with            markers by default.
+     It will automatically load the robot model, trajectories, and map. It will also performs the navigation.
+3. turtlebot_teleop:
+     With the keyboard_teleop.launch file, we can control the robot through the keyboard command.

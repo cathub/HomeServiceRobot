@@ -1,5 +1,0 @@
-Used package:
-1. turtlebot_gazebo(http://wiki.ros.org/turtlebot_gazebo) :  Gazebo simulation of the TurtleBot
-2. turtlebot_rviz_launchers(http://wiki.ros.org/turtlebot_rviz_launchers) : Support user side interactions with the turtlebot.
-3. turtlebot_teleop(http://wiki.ros.org/turtlebot_teleop): basic drivers for running and using a TurtleBot with ROS.
-4. slam_gmapping(http://wiki.ros.org/gmapping):  perform SLAM and build a map of the environment.
